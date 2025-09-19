@@ -1,0 +1,6 @@
+{
+    "require": {
+        "intervention/image": "^3.11",
+        "imagine/imagine": "^1.5"
+    }
+}
