@@ -1,4 +1,5 @@
-Sobre: Este site integra um projeto de atividade de extensão para a graduação em Tecnologia da Informação.
+Sobre: Este site faz do projeto de atividade de extensão "Solução colaborativa em um cenário de moda sustentável - brechó" para a graduação em Gestão Tecnologia da Informação.
+
 A iniciativa foi desenvolvida de forma colaborativa, envolvendo clientes e vendedores do setor de moda rápida e sustentável.
 
 O protótipo pode ser acessado no domínio https://brechonline.great-site.net, embora apresente algumas limitações na execução de PHP, por se tratar de um ambiente de hospedagem gratuita.
